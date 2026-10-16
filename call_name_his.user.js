@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Call Name HIS v8.2
+// @name         Call Name HIS v8.3
 // @namespace    http://tampermonkey.net/
-// @version      8.2
+// @version      8.3
 // @author       Created by Mr-D
-// @description  Call Name HIS v8.1 (Created by Mr-D) - Hỗ trợ Khám bệnh ngoại trú & Nhà thuốc (Xuất thuốc), tải sẵn danh sách ngầm 0s, đọc rõ từng chữ.
+// @description  Call Name HIS v8.3 (Created by Mr-D) - Hỗ trợ Khám bệnh ngoại trú & Nhà thuốc (Xuất thuốc), tải sẵn danh sách ngầm 0s, đọc rõ từng chữ.
 // @match        https://yte-camau.vnpthis.vn/web_his/khambenhngoaitru*
 // @match        https://yte-camau.vnpthis.vn/web_his/cmu_funs_nhathuoc_xuatthuoc*
 // @grant        GM_xmlhttpRequest
