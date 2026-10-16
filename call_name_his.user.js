@@ -9,8 +9,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      127.0.0.1
 // @connect      localhost
-// @updateURL    https://raw.githubusercontent.com/ntdtd2010-bit/Call-Name-HIS/main/call_name_his.user.js
-// @downloadURL  https://raw.githubusercontent.com/ntdtd2010-bit/Call-Name-HIS/main/call_name_his.user.js
+// @updateURL    https://github.com/ntdtd2010-bit/Call-Name-HIS/raw/refs/heads/main/call_name_his.user.js
+// @downloadURL  https://github.com/ntdtd2010-bit/Call-Name-HIS/raw/refs/heads/main/call_name_his.user.js
 // ==/UserScript==
 
 (function() {
