@@ -17,7 +17,7 @@
 (function() {
     'use strict';
 
-    const APP_TITLE = "Call Name HIS v8.4";
+    const APP_TITLE = "Call Name HIS v" + GM_info.script.version;
     const APP_AUTHOR = "Created by Mr-D";
     const SERVER_URL = "http://127.0.0.1:5000";
 
