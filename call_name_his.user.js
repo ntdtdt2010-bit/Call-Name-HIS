@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Call Name HIS
 // @namespace    http://tampermonkey.net/
-// @version      8.3
+// @version      8.4
 // @author       Created by Mr-D
 // @description  Call Name HIS (Created by Mr-D) - Hỗ trợ Khám bệnh ngoại trú & Nhà thuốc (Xuất thuốc), tải sẵn danh sách ngầm 0s, đọc rõ từng chữ.
 // @match        https://yte-camau.vnpthis.vn/web_his/khambenhngoaitru*
@@ -17,7 +17,7 @@
 (function() {
     'use strict';
 
-    const APP_TITLE = "Call Name HIS v8.3";
+    const APP_TITLE = "Call Name HIS v8.4";
     const APP_AUTHOR = "Created by Mr-D";
     const SERVER_URL = "http://127.0.0.1:5000";
 
