@@ -1,22 +1,23 @@
 // ==UserScript==
-// @name         Call Name HIS v8.3.1
+// @name         Call Name HIS
 // @namespace    http://tampermonkey.net/
-// @version      8.3.1
+// @version      8.2
 // @author       Created by Mr-D
-// @description  Call Name HIS v8.3.1 (Created by Mr-D) - Hỗ trợ Khám bệnh ngoại trú & Nhà thuốc (Xuất thuốc), tải sẵn danh sách ngầm 0s, đọc rõ từng chữ.
+// @description  Call Name HIS (Created by Mr-D) - Hỗ trợ Khám bệnh ngoại trú & Nhà thuốc (Xuất thuốc / Viện phí), tải sẵn danh sách ngầm 0s, đọc rõ từng chữ.
 // @match        https://yte-camau.vnpthis.vn/web_his/khambenhngoaitru*
 // @match        https://yte-camau.vnpthis.vn/web_his/cmu_funs_nhathuoc_xuatthuoc*
+// @match        https://yte-camau.vnpthis.vn/web_his/cmu_funs_nhathuoc_vienphi*
 // @grant        GM_xmlhttpRequest
 // @connect      127.0.0.1
 // @connect      localhost
-// @updateURL    https://github.com/ntdtd2010-bit/Call-Name-HIS/raw/refs/heads/main/call_name_his.user.js
-// @downloadURL  https://github.com/ntdtd2010-bit/Call-Name-HIS/raw/refs/heads/main/call_name_his.user.js
+// @updateURL    https://github.com/ntdtdt2010-bit/Call-Name-HIS/raw/refs/heads/main/call_name_his.user.js
+// @downloadURL  https://github.com/ntdtdt2010-bit/Call-Name-HIS/raw/refs/heads/main/call_name_his.user.js
 // ==/UserScript==
 
 (function() {
     'use strict';
 
-    const APP_TITLE = "Call Name HIS v8.3.1";
+    const APP_TITLE = "Call Name HIS v8.3";
     const APP_AUTHOR = "Created by Mr-D";
     const SERVER_URL = "http://127.0.0.1:5000";
 
